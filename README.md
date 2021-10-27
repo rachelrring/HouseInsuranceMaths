@@ -1,6 +1,6 @@
 # HouseInsuranceMaths
 
-This project was created for QQI level 5 for object oriented programming through Java
+This project was created for QQI level 6 for object oriented programming through Java
 
 Classes: HouseInsurnaceMaths, House, Main
 
