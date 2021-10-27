@@ -6,9 +6,9 @@ Create a program that uses two classes outside of the program (main) class. (Cre
 The first class:
   - A static maths class, named HouseInsuranceMaths.
   - Must contain at least three methods.
-        A method to return a cost of a house based on the area (floor area of the house, if two stories you must double this, three triple and so on) and amount of windows and              rooms. Price = (floor area * rooms*rooms   * windows*Stories).
-        A method to calculate the price of insurance, this is .02% of the price of the house, to get the price of the house this method must use the first method.
-        A method to calculate the price of rental per month, this is the price of the house divided by 400.
+        			A method to return a cost of a house based on the area (floor area of the house, if two stories you must double this, three triple and so on) and amount of windows and rooms. Price = (floor area * rooms*rooms   * windows*Stories).
+        			A method to calculate the price of insurance, this is .02% of the price of the house, to get the price of the house this method must use the first method.
+        			A method to calculate the price of rental per month, this is the price of the house divided by 400.
 
 Second Class, non-static instance(s) of this class will be called in the main program.
   - A class, named House.
@@ -29,10 +29,9 @@ Second Class, non-static instance(s) of this class will be called in the main pr
 
 
 
-
-	The program must create an instance of a house.
-	The program askes the user to enter the above details.
-	The program should then display the price, rental amount and insurance premium along with every house detail (properties), in an attractive screen. 
-	House information should be taken from the instance of the house, not local class variables. 
-	Include graphics (lines and stars) in the Console Application
+The program must create an instance of a house.
+The program askes the user to enter the above details.
+The program should then display the price, rental amount and insurance premium along with every house detail (properties), in an attractive screen. 
+House information should be taken from the instance of the house, not local class variables. 
+Include graphics (lines and stars) in the Console Application
 
